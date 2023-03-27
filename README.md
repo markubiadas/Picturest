@@ -58,9 +58,9 @@ Technologies used in the project:
 
 <h2>:ledger: Future Features</h2>
 
-- [ ] Ability to add tags to photos so users can sort the photos by tags, thus viewing only photos relevant to them
-- [ ] Feature for users to be able to message other users
-- [ ] Feature for users to share photos to other social media websites
+- [ ] Ability to add tags to photos so users can sort the photos by tags, thus viewing only photos relevant to them.
+- [ ] Feature for users to be able to message other users.
+- [ ] Feature for users to share photos to other social media websites.
 
 <h2>🛡️ License:</h2>
 This project is licensed under the GNU General Public License v3.0
